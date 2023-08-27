@@ -4,7 +4,8 @@
 ## Как установить
 Скачайте репозиторий и установите Python пакеты из `requirements.txt`:
 ```bash
-git clone https://github.com/AlexRikka/devman_weather_via_cli.git  
+git clone https://github.com/AlexRikka/devman_weather_via_cli.git
+cd devman_weather_via_cli  
 pip install -r requirements.txt
 ```
 
