@@ -2,8 +2,9 @@
 Скрипт позволяет вывести в терминале прогноз погоды в трех локациях: Лондон, аэропорт Шереметьево, Череповец. Прогноз показывается для дня и ночи на текущую дату и на 2 дня вперед. Для получения данных используется сервис [wttr.in](https://wttr.in/).
 
 ## Как установить
-Скачайте скрипт `show_weather.py`. Установите Python пакеты из `requirements.txt`:
+Скачайте репозиторий и установите Python пакеты из `requirements.txt`:
 ```bash
+git clone https://github.com/AlexRikka/devman_weather_via_cli.git  
 pip install -r requirements.txt
 ```
 
