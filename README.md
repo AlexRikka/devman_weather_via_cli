@@ -4,12 +4,12 @@
 ## Как установить
 Скачайте скрипт `show_weather.py`. Установите Python пакеты из `requirements.txt`:
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Запустите скрипт в командной строке
 ```bash
-$ python show_weather.py
+python show_weather.py
 ```
 ## Пример работы скрипта
 Часть вывода с городом Лондон  
